@@ -22,7 +22,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MSA-007ACC.svg?style=for-the-badge&logo=MSA&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring_Cloud%20Query-FF4154?style=for-the-badge&logo=Spring_Cloud%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring_Cloud-FF4154?style=for-the-badge&logo=Spring_Cloud&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Algorithm-3578E5?style=for-the-badge&logo=Algorithm&logoColor=white" />&nbsp
 </div>
 
