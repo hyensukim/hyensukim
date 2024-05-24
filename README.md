@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-<div >
+<div>
   <img src="https://capsule-render.vercel.app/api?type=venom&color=00D8FF&height=150&text=Hi,There&fontColor=FFD8D8" />
 </div>
 
