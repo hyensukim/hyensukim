@@ -14,19 +14,14 @@
   <img src="https://img.shields.io/badge/Spring_Data_Jpa-CEFBC9.svg?style=for-the-badge&logo=hibernate&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Spring_Security-F7DF1E.svg?style=for-the-badge&logo=SpringSecurity&logoColor=black" />&nbsp
 </div>
-
 <div>
   <img src="https://img.shields.io/badge/MySQL-DB7093?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MariaDB-1daabb.svg?style=for-the-badge&logo=MariaDB&logoColor=white" />&nbsp
 </div>
-
 <br>
-
 <h3>🤓 Studying</h3>
 <div >
-  <img src="https://img.shields.io/badge/MSA-007ACC.svg?style=for-the-badge&logo=MSA&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Spring_Cloud-FF4154?style=for-the-badge&logo=Spring_Cloud&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Algorithm-3578E5?style=for-the-badge&logo=Algorithm&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/MSA-007ACC.svg?style=for-the-badge&logo=Java&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Network-008000.svg?style=for-the-badge&logo=Network&logoColor=black" />&nbsp
 </div>
 
 <br>
@@ -41,7 +36,7 @@
 
 <br>
 
-<h3 >📫 Contact 📫</h3>
+<h3 >📫 Contact</h3>
 <div >
   <a href="https://velog.io/@hyensukim/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
