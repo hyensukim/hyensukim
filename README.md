@@ -20,7 +20,7 @@
 <br>
 <h3>🤓 Studying</h3>
 <div >
-  <img src="https://img.shields.io/badge/MSA-007ACC.svg?style=for-the-badge&logo=Java&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=openjdk&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Network-008000.svg?style=for-the-badge&logo=Network&logoColor=black" />&nbsp
 </div>
 
