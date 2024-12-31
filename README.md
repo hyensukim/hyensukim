@@ -9,13 +9,13 @@
 <!--내용 부분-->
 <h3>🧑‍💻 Tech Stack</h3>
 <div >
-  <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Spring_Boot-1DDB16.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=openjdk&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/Spring_Boot-1DDB16.svg?style=for-the-badge&logo=SpringBoot&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Spring_Data_Jpa-CEFBC9.svg?style=for-the-badge&logo=hibernate&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Spring_Security-F7DF1E.svg?style=for-the-badge&logo=SpringSecurity&logoColor=black" />&nbsp
 </div>
 <div>
-  <img src="https://img.shields.io/badge/MySQL-DB7093?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-DB7093?style=for-the-badge&logo=MySQL&logoColor=black" />&nbsp
 </div>
 <br>
 <h3>🤓 Studying</h3>
